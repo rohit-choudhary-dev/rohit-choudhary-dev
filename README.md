@@ -11,7 +11,7 @@
 - 🐍 **Python Full Stack** - Flask & Django se web apps banata hu
 - 🤖 **AI/ML Explorer** - Neural Networks & Machine Learning
 - 📊 **Data Science** - Data analysis & visualization
-- 🎓 **BCS Student** from Baddi, Himachal Pradesh
+- 🎓 **BCA Student** from shimla, Himachal Pradesh
 - 📫 **Contact:** rohitchoudharyc385@gmail.com
 
 ### 🛠️ Tech Stack
